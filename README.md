@@ -1,4 +1,4 @@
-# SDN-DDoS-Detection-XAI
+# SDN-DDoS-Dos-Detection-XAI
 # Explainable SDN DDoS Detection using XGBoost and SHAP
 
 ## Project Overview
