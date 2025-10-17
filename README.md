@@ -90,8 +90,8 @@ Almiani, M. et al., “A Machine Learning-Based Cyber Attack Detection Model for
 ---
 
 ##  Folder Structure
-Explainable-SDN-DDoS-Detection/
-│
+Explainable-SDN-DDoS-Detection
+
 ├── data/                  # InSDN dataset CSVs (excluded or linked)
 ├── notebooks/             # Jupyter notebooks for EDA, preprocessing, training, SHAP
 ├── figures/               # Exported figures for poster and report
