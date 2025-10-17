@@ -90,16 +90,18 @@ Almiani, M. et al., “A Machine Learning-Based Cyber Attack Detection Model for
 ---
 
 ##  Folder Structure
-Explainable-SDN-DDoS-Detection
 
-data/                  # InSDN dataset CSVs (excluded or linked)
-notebooks/             # Jupyter notebooks for EDA, preprocessing, training, SHAP
-figures/               # Exported figures for poster and report
-models/                # Saved trained models (.json, .pkl)
-src/                   # Python scripts (data_cleaning.py, preprocess.py, model_train.py)
-README.md              # Project documentation
-requirements.txt       # Library dependencies
-
+```
+Explainable-SDN-DDoS-Detection/
+│
+├── data/                  # InSDN dataset CSVs (excluded or linked)
+├── notebooks/             # Jupyter notebooks for EDA, preprocessing, training, SHAP
+├── figures/               # Exported figures for poster and report
+├── models/                # Saved trained models (.json, .pkl)
+├── src/                   # Python scripts (data_cleaning.py, preprocess.py, model_train.py)
+├── README.md              # Project documentation
+└── requirements.txt       # Library dependencies
+```
 ---
 
 ##  Future Work
